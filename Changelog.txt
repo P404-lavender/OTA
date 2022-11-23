@@ -1,0 +1,28 @@
+====================
+    11-23-2022     
+====================
+
+* frameworks/base
+a462f7e  BatteryMeterView: Fix NPE that occurs when onDensityOrFontScaleChanged() is called.  [spezi77]
+32a2b4c  zygote: Disable debug  [dkati]
+ffda360  SystemUI: Stop building NotoSerif font.  [Jyotiraditya Panda]
+5d8aef2  libandroid_defaults: use ThinLTO  [John Galt]
+38d30c5  core/jni/libandroid_runtime: use ThinLTO  [John Galt]
+81758b2  Revert "SystemUI: match brightness slider track height with the progress drawable"  [xenxynon]
+
+
+====================
+    11-22-2022     
+====================
+
+====================
+    11-21-2022     
+====================
+
+====================
+    11-20-2022     
+====================
+
+====================
+    11-19-2022     
+====================
