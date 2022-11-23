@@ -2,9 +2,11 @@
   "response": [
     {
       "datetime": 1669214570,
-      "filename": "DerpFest-12-Community-Shinju-lavender-20221123-1442.zip",                          "id": "127d8eff0ee5a851932dc16d40efd4290cb4418a1c96ee1ad94e73375aa03c39",
-      "romtype": "Official",
-      "size": 1556075488,                                                                             "url": "https://sourceforge.net/projects/derpfest/files/lavender/DerpFest-12-Community-Shinju-lavender-20221123-1442.zip/download",
+      "filename": "DerpFest-12-Community-Shinju-lavender-20221123-1442.zip",
+      "id": "127d8eff0ee5a851932dc16d40efd4290cb4418a1c96ee1ad94e73375aa03c39",
+      "romtype": "Community",
+      "size": 1556075488,
+      "url": "https://td.trollgroup.workers.dev/0:/MirrorGroup/DerpFest-12-Community-Shinju-lavender-20221123-1442.zip",
       "version": "12"
     }
   ]
